@@ -1,4 +1,4 @@
-## Catalogo de produtos
+## API - Catalogo de produtos
 O microsserviço de produtos realiza o processo de carga dos produtos na base de dados. Ele utiliza o framework do spring batch para realizar a carga e 'escrita' dos dados em uma base de dados. 
 ## Pré requisitos
 
